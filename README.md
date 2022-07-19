@@ -1,9 +1,11 @@
 # TURBOBASIC-0
-Clone de Turbo Basic du DOS en Pascal
+Clone de Turbo Basic du DOS en Pascal.
+
+![image](https://user-images.githubusercontent.com/11842176/179814242-2393d0e9-95d9-4b96-aeaa-b018aba08af0.png)
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans DEV-COOLS :
+Voici la liste des différents fichiers proposés dans TURBOBASIC-0 :
 
 <table>
 		<tr>
